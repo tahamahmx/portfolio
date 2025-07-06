@@ -19,6 +19,10 @@
         rgba(0, 0, 0, 0.5)
       );
     }
+    video {
+      width: inherit;
+      height: 165px;
+    }
     .heart {
       inset-inline-end: -20%;
       font-size: 18px;

@@ -12,6 +12,7 @@ import { LanguageService } from '../services/language.service';
 })
 export class ProjectComponent implements OnInit {
   project = input<any>();
+  showVideo = false;
   constructor(private LanguageService: LanguageService) {
     // Initialization logic can go here if needed
   }

@@ -13,6 +13,7 @@ export class ProjectsComponent {
     {
       id: 1,
       image: '../../assets/images/gym.jpg',
+      video: '../../assets/images/gym.gif',
       title: 'Fithub-Gym',
       titleAr: 'فيت هاب جيم',
       description:
@@ -25,6 +26,7 @@ export class ProjectsComponent {
     {
       id: 2,
       image: '../../assets/images/learnnig.jpg',
+      video: '../../assets/images/learning.gif',
       title: 'Online Learning Platform',
       titleAr: 'منصة تعليمية إلكترونية',
       description:
@@ -37,6 +39,7 @@ export class ProjectsComponent {
     {
       id: 3,
       image: '../../assets/images/Furniture.jpg',
+      video: '../../assets/images/Furniture.gif',
       title: 'Furniture Store',
       titleAr: 'متجر أثاث',
       description:
@@ -49,6 +52,7 @@ export class ProjectsComponent {
     {
       id: 4,
       image: '../../assets/images/pharma.jpg',
+      video: '../../assets/images/pharma.gif',
       title: 'Pharmacy App',
       titleAr: 'تطبيق صيدلية',
       description:
@@ -61,6 +65,7 @@ export class ProjectsComponent {
     {
       id: 5,
       image: '../../assets/images/movies.jpg',
+      video: '../../assets/images/movie.gif',
       title: 'Movie App',
       titleAr: 'تطبيق أفلام',
       description:
@@ -73,6 +78,7 @@ export class ProjectsComponent {
     {
       id: 6,
       image: '../../assets/images/tomato.jpg',
+      video: '../../assets/images/tomato.gif',
       title: 'Tomato Restaurant',
       titleAr: 'مطعم توماتو',
       description:
